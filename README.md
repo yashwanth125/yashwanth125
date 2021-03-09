@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Flask, NodeJS, Python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/yashwanth-reddy/**
+- 📫 How to reach me [![Linkedin](https://img.shields.io/badge/yashwanthreddy-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-reddy/)
 
 
 
