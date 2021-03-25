@@ -10,6 +10,11 @@
 
 - 📫 How to reach me [![Linkedin](https://img.shields.io/badge/yashwanthreddy-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-reddy/)
 
+### 🏆 Github Profile Tropy
+
+<p align="left"> <a href="https://github.com/yashwanth125"><img src="https://github-profile-trophy.vercel.app/?username=yashwanth125" alt="Yashwanth Reddy" /></a> </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
