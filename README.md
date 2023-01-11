@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’ve hands on knowledge with **Flask, NodeJS, Python, NLP and Cloud**
+- 🔭 I’ve hands on knowledge with **Flask, NodeJS, Python, Big Data, NLP and Cloud**
 
 - 📫 How to reach me [![Linkedin](https://img.shields.io/badge/yashwanthreddy-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-reddy/)
 
